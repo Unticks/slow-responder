@@ -1,3 +1,3 @@
-module github.com/teotwaki/slow-responder
+module github.com/Unticks/slow-responder
 
 go 1.13
